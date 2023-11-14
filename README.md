@@ -6,7 +6,7 @@
 # Problem 1
 The elliptic curve is given by \(y^2 \equiv x^3 + 2x + 3 \pmod{17}\) with \(p = 17\)
 ```
-### Middle Palindrome 
+### Middle but Not a Palindrome 
 ```sh
 # Problem 2
 Number: 1, Hash: 355bce525bdb23aa87150720e1561f7b08ed9ee2640a5150a316da2de4c3690a
